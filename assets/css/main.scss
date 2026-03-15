@@ -10,8 +10,10 @@ $background-color: {{ site.background_color | default: "#383838" }};
 
 
 // $default-sans-serif: "Playfair Display, serif";
-$sans-serif: "Playfair Display, serif";
-$global-font-family: "Playfair Display, serif";
+$header-font-family: "Playfair Display, serif";
+$sans-serif-narrow: "Playfair Display, serif";
+// $global-font-family: "Playfair Display, serif";
+
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
@@ -36,3 +38,15 @@ $h-size-6: 1em !default; // ~16px
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
 @import "minimal-mistakes"; // main partials
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 2em 0 0.5em;
+  line-height: 1.2;
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+}
