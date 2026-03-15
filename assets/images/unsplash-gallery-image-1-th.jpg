@@ -1,0 +1,15 @@
+--2026-03-15 10:06:05--  https://github.com/mmistakes/minimal-mistakes/blob/5786c35342d4f359ca40479f38e6255785ab1591/docs/assets/images/unsplash-gallery-image-1-th.jpg
+Slår upp github.com (github.com)... 4.225.11.194
+Ansluter till github.com (github.com)|4.225.11.194|:443 … ansluten.
+HTTP-begäran skickad, väntar på svar... 200 OK
+Längd: ospecificerat [text/html]
+Sparar till: ”unsplash-gallery-image-1-th.jpg”
+
+     0K .......... .......... .......... .......... ..........  937K
+    50K .......... .......... .......... .......... .......... 1,95M
+   100K .......... .......... .......... .......... .......... 2,78M
+   150K .......... .......... .......... .......... .......... 5,19M
+   200K .......... .......... .......... ..........            4,15M=0,1s
+
+2026-03-15 10:06:06 (2,04 MB/s) - ”unsplash-gallery-image-1-th.jpg” sparades [246113]
+
